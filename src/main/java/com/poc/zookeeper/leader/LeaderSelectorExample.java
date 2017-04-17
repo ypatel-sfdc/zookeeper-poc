@@ -16,7 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-package com.codeallday.leader;
+package com.poc.zookeeper.leader;
 
 import com.google.common.collect.Lists;
 import org.apache.curator.utils.CloseableUtils;

@@ -1,4 +1,4 @@
-package com.codeallday.zookApp;
+package com.poc.zookeeper.zookApp;
 
 import org.apache.zookeeper.WatchedEvent;
 import org.apache.zookeeper.Watcher;

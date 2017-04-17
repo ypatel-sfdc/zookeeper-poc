@@ -1,4 +1,4 @@
-import com.codeallday.zookApp.ZooKeeperConnector;
+import com.poc.zookeeper.zookApp.ZooKeeperConnector;
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;
 import org.apache.curator.retry.ExponentialBackoffRetry;
